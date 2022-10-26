@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-Hi! I'm Ali and am a PhD student stuying immunology at NYU, currently working on genetic editing to improve immune responses against different cancers. I'm interested in learning fundamental bioinformatics sequencing to aid my project and expand my knowledge of changes in gene expression during disease. I love to run, go to concerts, and be with my friends! 
+Hi! I'm Ali and am a PhD student stuying immunology at NYU, currently working on genetic editing to improve immune responses against different cancers. I'm interested in learning fundamental bioinformatics sequencing to aid my project and expand my knowledge of changes in gene expression during disease. I love to run, go to concerts, and hang with my friends! 
